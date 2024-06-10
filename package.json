@@ -12,6 +12,9 @@
   "author": "AHO Emile",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "save": "^2.9.0",
+    "sequelize": "^3.30.4"
   }
 }
